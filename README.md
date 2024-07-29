@@ -3,7 +3,7 @@ Hello! Myself Mithun Kulal from INDIA. I'm a passionate computer science enthusi
 
 
 # 💫 About Me:
-<b>📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>  ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing</b>
+<b>📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>    ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing</b>
 
 
 # 💻 Tech Stack:
