@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 # 💫 About Me:
-📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>  ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing
+<b>📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>  ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing</b>
 
 
 # 💻 Tech Stack:
