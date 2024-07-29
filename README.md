@@ -1,5 +1,5 @@
 ## Hey there 👋
-<center>
+<center
 # 💫 About Me:
 <b>📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>  ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing</b>
 
@@ -18,6 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KulalMithun&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KulalMithun&icon=9&color=3)](https://visitcount.itsvg.in) </center>
+[![](https://visitcount.itsvg.in/api?id=KulalMithun&icon=9&color=3)](https://visitcount.itsvg.in) />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
