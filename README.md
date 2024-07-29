@@ -1,4 +1,7 @@
 ## Hey there 👋
+Hello! I'm Mithun from India. I'm a passionate computer science enthusiast and a young coder dedicated to exploring the endless possibilities of technology.
+
+✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵ ✵
 
 # 💫 About Me:
 <b>📚 Computer Science Graduate<br>👨‍🎓 Still Exploring<br>🤝 Open to Collab<br>📖 Ask me Anything!<br>🌟 My field of Interest<br>  ✧ Python<br>  ✧ AI / ML<br>  ✧ Cybetr Security<br>  ✧ Linux<br>  ✧ Penetration Testing</b>
